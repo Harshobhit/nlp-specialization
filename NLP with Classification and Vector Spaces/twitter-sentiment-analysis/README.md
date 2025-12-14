@@ -5,12 +5,14 @@ This project performs sentiment analysis on Twitter data to classify tweets as *
 It demonstrates text preprocessing, feature extraction, and machine learning model training.
 
 ## 🗂️ Repository Structure
+```
 ├── notebooks/        # Exploratory Jupyter notebooks
 ├── src/              # Python scripts (preprocessing.py, train.py, evaluate.py)
 ├── data/             # Raw/processed datasets
 ├── results/          # Plots, metrics, reports
 ├── requirements.txt  # Dependencies
 └── README.md         # Documentation
+```
 
 ## 📊 Dataset
 - **Source:** [Insert dataset source, e.g., Twitter API, Kaggle]  
